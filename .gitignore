@@ -1,0 +1,3 @@
+# 排除 Python 编译缓存与临时文件
+__pycache__/
+*.pyc
